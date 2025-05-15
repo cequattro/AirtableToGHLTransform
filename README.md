@@ -1,5 +1,5 @@
 # AirtableToGHLTransform
-ETL process, transforming data from airtable to go high level contacts
+ETL process, transforming data from airtable to go high level contacts/opportunities
 
 Sample data included in:
 
